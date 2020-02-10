@@ -1,0 +1,98 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/modeltech64_10.4/examples
+T_opt
+!s110 1581343547
+V3T>eO]Yh6M:Pd7cT`Pd?:0
+04 13 4 work inst_fetch_tb fast 0
+=1-f8633f71b4ed-5e416338-58-1f88
+o-quiet -auto_acc_if_foreign -work work +acc
+n@_opt
+OL;O;10.4;61
+vinst_fetch
+Z0 !s110 1581343533
+!i10b 1
+!s100 Yo=Bakgkj7Pi<l5jQES5X0
+IK57SJ5bU4?nR]=VMzHDJJ3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/workspace/verilog/modulesim
+w1581343522
+8D:/workspace/verilog/modulesim/inst_fetch.v
+FD:/workspace/verilog/modulesim/inst_fetch.v
+L0 1
+Z3 OL;L;10.4;61
+r1
+!s85 0
+31
+!s108 1581343533.424000
+!s107 D:/workspace/verilog/modulesim/inst_fetch.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/workspace/verilog/modulesim/inst_fetch.v|
+!i113 0
+Z4 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vinst_fetch_tb
+R0
+!i10b 1
+!s100 b>C7QzmkbUNQH1aVaM7zc1
+Il47jT1bEWSV0ZHRk<eDbA3
+R1
+R2
+w1581342853
+8D:/workspace/verilog/modulesim/inst_fetch_tb.v
+FD:/workspace/verilog/modulesim/inst_fetch_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1581343533.916000
+!s107 D:/workspace/verilog/modulesim/inst_fetch_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/workspace/verilog/modulesim/inst_fetch_tb.v|
+!i113 0
+R4
+vpc_reg
+!s110 1581343534
+!i10b 1
+!s100 7l6BFm]>mfP:KC1caE7G`3
+I4coJ:D^A^JWb9KXCS]BZP2
+R1
+R2
+w1581342121
+8D:/workspace/verilog/modulesim/pc_reg.v
+FD:/workspace/verilog/modulesim/pc_reg.v
+L0 3
+R3
+r1
+!s85 0
+31
+!s108 1581343534.416000
+!s107 D:/workspace/verilog/modulesim/pc_reg.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/workspace/verilog/modulesim/pc_reg.v|
+!i113 0
+R4
+vrom
+!s110 1581343532
+!i10b 1
+!s100 TfF4Y3YNATI[Q:CQNhXkg1
+IMVW=hVMOaRk86;4fmAQGa0
+R1
+R2
+w1581342440
+8D:/workspace/verilog/modulesim/rom.v
+FD:/workspace/verilog/modulesim/rom.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1581343532.942000
+!s107 D:/workspace/verilog/modulesim/rom.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/workspace/verilog/modulesim/rom.v|
+!i113 0
+R4

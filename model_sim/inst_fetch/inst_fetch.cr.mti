@@ -1,0 +1,29 @@
+D:/workspace/verilog/modulesim/pc_reg.v {1 {vlog -work work -vopt -stats=none D:/workspace/verilog/modulesim/pc_reg.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module pc_reg
+
+Top level modules:
+	pc_reg
+
+} {} {}} D:/workspace/verilog/modulesim/inst_fetch_tb.v {1 {vlog -work work -vopt -stats=none D:/workspace/verilog/modulesim/inst_fetch_tb.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module inst_fetch_tb
+
+Top level modules:
+	inst_fetch_tb
+
+} {} {}} D:/workspace/verilog/modulesim/rom.v {1 {vlog -work work -vopt -stats=none D:/workspace/verilog/modulesim/rom.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module rom
+
+Top level modules:
+	rom
+
+} {} {}} D:/workspace/verilog/modulesim/inst_fetch.v {1 {vlog -work work -vopt -stats=none D:/workspace/verilog/modulesim/inst_fetch.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module inst_fetch
+
+Top level modules:
+	inst_fetch
+
+} {} {}}
